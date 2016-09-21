@@ -1,7 +1,16 @@
 # AndroidCollections
 自用Android优秀文章收集，欢迎fork、commit
 ## View
-1. [自定义View系列](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
+1. 自定义View系列
+	1. [自定义View系列1](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
+
+
+######个人认为写的比较好的两篇文章
+
+
+1. [教你步步为营掌握自定义View](http://www.jianshu.com/p/d507e3514b65) 
+2. [教你步步为营掌握自定义ViewGroup](http://www.jianshu.com/p/5e61b6af4e4c) 
+
 
 
 ## RxJava
