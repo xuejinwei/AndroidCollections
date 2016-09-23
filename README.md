@@ -40,3 +40,7 @@
 ## OkHttp
 1. [OkHttp官方教程解析-彻底入门OkHttp使用](http://blog.csdn.net/mynameishuangshuai/article/details/51303446)
 2. [OKHttp3.0的日常及入门](http://blog.csdn.net/biezhihua/article/details/50603624)
+
+## NestedScrolling 机制
+1. [Material Design中的CoordinatorLayout和Behavior详解](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237142&idx=1&sn=7470950e38945c5afb573e3ce7469bb6&chksm=886399b9bf1410afaf3a688bb3b4e0051ed2cd7aca72b6ca447fd0b0fa5844132364b37a83ba&scene=0#wechat_redirect)
+2. [Android NestedScrolling机制完全解析 带你玩转嵌套滑动](http://blog.csdn.net/lmj623565791/article/details/52204039)
