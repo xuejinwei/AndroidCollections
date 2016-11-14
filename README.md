@@ -21,9 +21,11 @@
 	1. [深入浅出RxJava 四：在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611) 	
 	
 2. [RxJava系列2](http://mushuichuan.com/tags/RxJava/)
+3. [RxJava系列3](https://zhuanlan.zhihu.com/p/20687178)
 3. [RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/index.html)
 4. [ReactiveX/RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 5. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_3)
+6. [我的rxjava源码阅读笔记](https://zhuanlan.zhihu.com/p/23617414)
 
 
 ## Retrofit
