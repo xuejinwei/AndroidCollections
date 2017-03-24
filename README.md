@@ -3,13 +3,16 @@
 ## View
 1. 自定义View系列
 	1. [自定义View系列1](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/README.md)
+   	2. [自定义view这些足够了](https://github.com/xinghongfei/awesome-view)
 
 
-######个人认为写的比较好的两篇文章
+######个人认为写的比较好的文章
 
 
 1. [教你步步为营掌握自定义View](http://www.jianshu.com/p/d507e3514b65) 
 2. [教你步步为营掌握自定义ViewGroup](http://www.jianshu.com/p/5e61b6af4e4c) 
+3. [图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
+4. [更简单的学习Android事件分发](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576114&idx=1&sn=ed5569ba7beb408817b6a964bc9833b8)
 
 
 
@@ -26,6 +29,7 @@
 4. [ReactiveX/RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 5. [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_3)
 6. [我的rxjava源码阅读笔记](https://zhuanlan.zhihu.com/p/23617414)
+7. [可能是学习Rxjava最好的教程之一,另一个是《给Android开发者RxJava的详解》](https://github.com/xinghongfei/Hello-RxJava)
 
 
 ## Retrofit
