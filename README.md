@@ -50,3 +50,7 @@
 ## NestedScrolling 机制
 1. [Material Design中的CoordinatorLayout和Behavior详解](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650237142&idx=1&sn=7470950e38945c5afb573e3ce7469bb6&chksm=886399b9bf1410afaf3a688bb3b4e0051ed2cd7aca72b6ca447fd0b0fa5844132364b37a83ba&scene=0#wechat_redirect)
 2. [Android NestedScrolling机制完全解析 带你玩转嵌套滑动](http://blog.csdn.net/lmj623565791/article/details/52204039)
+
+## 优化
+1. [Android性能优化典范1-6](http://www.csdn.net/article/2015-01-20/2823621-android-performance-patterns)
+2. [Android 内存优化实践与总结](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578816&idx=1&sn=20b6160e92167dde676561f3a43d0860&chksm=84b3b447b3c43d51c8042b58fef7dcb2755bdb4ceffaf8244b1e88acc6231411e3e9a5f0368f&scene=0&key=b1ff6333ad66abdbf6f2e209b35c2c0608afb173104334701a63870c4482c26770a88e4731f23c0d8241a60842bd589a1faef210e996f8e61b0ea342442b1f3ce81b88e605eaa4ade566b6753e4f260f&ascene=0&uin=NjM0MTYxMjAw&devicetype=iMac+Macmini7%2C1+OSX+OSX+10.12.4+build(16E195)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=gEhHmJiO2pNtYqWaGXTwCUkTc1cHjuSPJvH90fruEo8hy%2Fs%2BHGVYpwwP1vUiUcyM)
